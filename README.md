@@ -1,1 +1,0 @@
-# Tryhack_me
