@@ -308,13 +308,3 @@ This write-up is for educational purposes only. All activities were performed in
 ## 👨‍💻 Author
 
 **Faiq (Cybersecurity Student | Penetration Tester)**
-
----
-
-If you want, I can also:
-
-* 🔥 Add screenshots version
-* 💼 Make it ATS-friendly for portfolio
-* 🚀 Convert it into LinkedIn post
-
-Just tell me 👍
