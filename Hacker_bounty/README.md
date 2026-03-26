@@ -147,12 +147,13 @@ ftp> exit
 ### 📄 task.txt:
 
 ```
-1.) Protect Vicious.
+1.) User: lin
 ```
 
 ### 🔑 locks.txt:
 
 Contained multiple possible passwords.
+hint : hail hydra
 
 ---
 └─$ cat locks.txt 
